@@ -19,5 +19,5 @@ def load_ipython_extension(ipython):
     display(Javascript(s))
 
 
-def unload_ipython_extension(ipython):
+# def unload_ipython_extension(ipython):
     # If you want your extension to be unloadable, put that logic here.
